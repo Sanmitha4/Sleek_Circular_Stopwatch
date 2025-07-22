@@ -23,19 +23,20 @@ Includes a modern UI with Start, Stop, and Reset functionalities, and a live upd
 
 ---
 
-## 🚀 Getting Started
+##  🚀 Getting Started
 
-### 1. Clone or Download the Repository
-
+ 1. Clone or Download the Repository
+```
 git clone https://github.com/Sanmitha-4/SleekCircularStopwatch.git
 cd SleekCircularStopwatch
-
+```
 2. Run the Application
 
 Using Terminal:
+```
 javac SleekCircularStopwatch.java
 java SleekCircularStopwatch
-
+```
 Using VS Code:
 1.Open SleekCircularStopwatch.java
 2.Right-click anywhere in the file
@@ -45,28 +46,33 @@ Using VS Code:
 
 
 ## 📁 Project Structure
-
+```
 .
 └── SleekCircularStopwatch.java   # Main GUI stopwatch source file
 └── README.md                     # This documentation
-
+```
 ---
 
-##🖼️ UI Preview
+## 🖼️ UI Preview
 
 ![Stop Watch Timer](image.png)
 
 ---
-🔧 Customization Ideas
+## 🔧 Customization Ideas
 
 1.Add Lap feature with a list display
 2.Sound alert on completion or intervals
 3.Export elapsed time to a log file
 4.Dark/light theme toggle
 ---
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and share!
+
+---
+## 👩‍💻 Author
+Sanmitha S Shetty
+
 
 ---
 
