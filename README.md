@@ -27,7 +27,6 @@ Includes a modern UI with Start, Stop, and Reset functionalities, and a live upd
 
 ### 1. Clone or Download the Repository
 
-```bash
 git clone https://github.com/Sanmitha-4/SleekCircularStopwatch.git
 cd SleekCircularStopwatch
 
@@ -41,7 +40,7 @@ Using VS Code:
 1.Open SleekCircularStopwatch.java
 2.Right-click anywhere in the file
 3.Select Run Java
-'''
+
 
 ## 📁 Project Structure
 
