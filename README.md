@@ -41,28 +41,29 @@ Using VS Code:
 1.Open SleekCircularStopwatch.java
 2.Right-click anywhere in the file
 3.Select Run Java
+'''
 
-📁 Project Structure
+## 📁 Project Structure
 
 .
 └── SleekCircularStopwatch.java   # Main GUI stopwatch source file
 └── README.md                     # This documentation
 
-🖼️ UI Preview
+## 🖼️ UI Preview
 
 ![Stop Watch Timer](image.png)
 
-🔧 Customization Ideas
+## 🔧 Customization Ideas
 
 Add Lap feature with a list display
 Sound alert on completion or intervals
 Export elapsed time to a log file
 Dark/light theme toggle
 
-📜 License
+##📜 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and share!
 
-🙋‍♀️ Author
+##🙋‍♀️ Author
 Sanmitha S. Shetty
 
